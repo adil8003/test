@@ -1,0 +1,181 @@
+.jumbotron {
+    background-color: #FFF;
+    min-height:700px;
+    /* background-image: url(../img/login-bg.jpg); */
+    opacity: 1;
+    padding-top: 100px;
+}
+.descPara{
+    font-size: 14px !important;
+    font-weight: 400;
+    color: #9A9A9A !important;
+    margin-bottom: 0px;
+        -webkit-font-smoothing: antialiased;
+    font-family: 'Muli', "Helvetica", Arial, sans-serif;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 75px;
+    background-color: #08143c;
+    color:#FFF;
+}
+.footer nav ul a, .copyright{
+    color:#FFF !important;
+}
+.loader {
+    position:fixed;
+    background-color:#FFF;
+    /* background-image:url('ajax-loader.gif'); */
+    background-repeat:no-repeat;
+    background-position:center;
+    z-index:10000000;
+    opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+
+.sidebar-wrapper .menu-link{
+    color:#08143c;
+}
+.table-striped thead th a, .category, .table-striped tbody td a{
+    color:#5968d8 !important
+}
+.author .img-rounded{
+    margin: 0 auto;
+}
+.card-user .title{
+    line-height: 20px;
+}
+
+.author .img-rounded{
+    margin: 0 auto;
+}
+.card-user .title{
+    line-height: 20px;
+}
+.content form .errmsg{
+    float:right;
+    color:#A00;
+    font-size: .8em;
+}
+.content form .asterik{
+    color:#A00;
+    font-size: .9em;
+}
+#addtopic ul .active{
+    color:#DD0330;
+    cursor: pointer;
+}
+.form-group{
+    margin-bottom: 10px !important;
+}
+.card label{
+    color: black !important;
+    width: 100%;
+}
+#tblorganisation_length{
+    display: none;
+}
+#tblusers_length{
+    display: none;
+}
+#tblorganisationusers_length{
+    display: none;
+}
+#tblcourselist_length{
+    display: none;
+}
+#tblcourse_length{
+    display: none;
+}
+.coursecard{
+    min-height: 150px !important;
+    /*background-color: #ebf4f74f !important;*/
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+    padding: 4px;
+    margin-top: 0px;
+    font-size: 1.0667rem;
+    font-weight: 400;
+    line-height: 1.6875;
+    letter-spacing: .4px;
+    font-size: 1.500rem;
+    padding: 9px;
+    border-radius: 0px;
+}
+div.dataTables_wrapper div.dataTables_filter input{
+    background-color: #337ab7 !important;
+    color: white !important;
+}
+.editCourse{
+    color: #5968d8 !important;
+}
+.courselayout{
+    line-height: 20px; 
+    font-size: 1.0667rem;
+    font-weight: 400;
+    line-height: 1.6875;
+    letter-spacing: .4px;
+    font-size: 1.500rem;
+    color: #3d4251;
+}
+.hrline{
+    margin-bottom: 14px;
+}
+.courseImg{
+    margin-top: -10px;
+}
+.courseTitle{
+       color: #3d4251;
+        margin-top: -4px;
+    margin-bottom: -11px;
+}
+/*Pagination*/
+#pagination span, #pagination a {
+    display: inline-block;
+    text-align: center;
+    height: 34px;
+    width: 34px;
+    color: #666;
+    line-height: 33px;
+    border: 1px solid #eee;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -o-border-radius: 2px;
+    transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+}
+
+#pagination span.current {
+    color: #59abe3;
+    font-family: fantasy;
+}
+
+#pagination a:hover {
+    border-color: #ddd;
+}
+
+#pagination .all-pages, #pagination .next-page {
+    width: auto;
+    padding: 0 14px;
+}
+.page-num {
+    cursor: pointer;
+}
+.coursemargin{
+    margin: 1px;
+
+}
+#tblorganisationusers_filter{
+    margin-left:202px !important;
+}
+#tblorganisation_filter{
+    margin-left:202px !important;
+}
+#tblusers_filter{
+    margin-left:206px !important;
+}

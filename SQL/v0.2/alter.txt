@@ -1,0 +1,67 @@
+ALTER TABLE `organisation` ADD `orgadminname` VARCHAR(200) NOT NULL AFTER `id`;
+ALTER TABLE `organisation` CHANGE `orgtype` `orgtypeid` INT(2) NOT NULL;
+ALTER TABLE `organisation` ADD FOREIGN KEY (`orgtypeid`) REFERENCES orgtype(`id`)
+ALTER TABLE `coursecontent` ADD FOREIGN KEY (`course_id`) REFERENCES courses(`id`)
+ALTER TABLE `coursecontent` ADD FOREIGN KEY (`coursesstatusid`) REFERENCES coursesstatus(`id`)
+
+ALTER TABLE `userroles` CHANGE `role_id` `role_id` INT(11) NOT NULL;
+ALTER TABLE `userroles` CHANGE `org_id` `org_id` INT(11) NOT NULL;
+ALTER TABLE `userroles` CHANGE `user_id` `user_id` INT(11) NOT NULL;
+
+ALTER TABLE `user` CHANGE `fullname` `fullname` VARCHAR(500) CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL;
+ALTER TABLE `coursecontent` CHANGE `coursesstatus` `coursesstatusid` INT(5) NOT NULL;
+
+
+
+
+
+
+
+
+//                echo '<pre>';
+//                print_r($_FILES);
+//                echo '</pre>';die;
+//                foreach ($_FILES as $file) {
+////                echo '<pre>';
+////                print_r($file['tmp_name']);
+////                echo '</pre>';die;
+//                    $arrlistimg[] = $file['tmp_name'];
+//                    $strlistimg = implode(',', $arrlistimg);
+//                    return $strlistimg;
+//                }
+//                $uploaddir = 'resources/shirts/';
+//                $image_name = md5(date('Ymdhis'));
+//                $uploadfile = $basePath . $uploaddir . $image_name . ".jpg";
+                if (count($_FILES) > 0) {
+//                    $Kv = 0;
+//     $uploads_dir = 'resources/shirts/';
+
+                    foreach ($_FILES as $filename) {
+                        $uploaddir = 'resources/shirts/';
+                        $image_name = md5(date('Ymdhis'));
+                        $uploadfile = $basePath . $uploaddir . $image_name . ".jpg";
+                        $arrlistimg[] = $uploadfile;
+                        move_uploaded_file($filename['tmp_name'], $uploadfile);
+                    }
+                    $strlistimg = implode(',', $arrlistimg);
+//                print_r($strlistimg);
+                }
+//                 print_r($strlistimg);
+//                        $Kv++;
+//                if (move_uploaded_file($filename['tmp_name'], $uploadfile)) {
+//                    if (($width < "255" || $width > "255") || ($height < "291" || $height > "291")) {
+//                        $arrReturn['error'] = ('error img size');
+//                    } else {
+
+
+js
+
+//        event.preventDefault();
+        var files = $('#files').get(0).files;
+//        if(file != ''){
+        var formData = new FormData();
+        $(files).each(function (index, file) {
+            console.log(index);
+            formData.append(index, file);
+        });
+//        }

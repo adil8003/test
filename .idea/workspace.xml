@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75b1d27a-5006-4a82-af1b-2307061e4bf8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/config/db.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/db.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/params.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/params.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/ApiController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/ApiController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/BannerController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/BannerController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/NewarrivalsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/NewarrivalsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/SubbannerController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/SubbannerController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/TrenddingController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/TrenddingController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/imgapti-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/star-half.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/star-off.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/star-on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/uploadify-cancel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiwings info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_html/js/banner/banner.js" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/js/banner/banner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_html/js/newarrivals/add.js" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/js/newarrivals/add.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_html/js/subbanner/subbanner.js" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/js/subbanner/subbanner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_html/js/trendding/add.js" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/js/trendding/add.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public_html/js/trendding/trendding.js" beforeDir="false" afterPath="$PROJECT_DIR$/public_html/js/trendding/trendding.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/016454ab9b2c890e2e894f1ba11643f0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/023a8c3b4e915f37fe580fcae19b7a9c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/05610a713a87105c1c22dc07d21e6fc0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/08c648d02a218656937d8e5d2f5df655.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/0fd53a624e5efa7ec7fbe90f5b47b668.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/109ad475898e0653059fa0c775549cf3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/11fad459fed00c4f022ae5183767e1f1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/1200b0f94c36d0f2f465b84dc5217975.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/13db233e41199bc95005ab496aeff86c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/17964f9549cca4cfb7610825d3100245.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/1a68dd6b49ca6192484fa33383a4f819.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/1f8c956b2218cac1b44943f966de2d7c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/23f65fe31ed53ed288bc3292e463ff1a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/23f7d9e616b3734eecff2bad2d953484.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/245fcff73d4916d9220dc094edccebdc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/2555463f52a1124a9f71b02d7757c1b8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/2743deabc6a1e0d804d059a5fb5af692.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/28ad3c19fd4f4d07652fafa36f77539b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/2a365187f74d916ddb573e166d1e149a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/2f8c8d587a9d6f50a2022c996e2c8e04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/32b8baeb00c9aa40b6096b57940d4a48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/34da9aefc605b3e4b4736d56ac3f2fa9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/3be8164c4ed8184287a7e0ba5fb1be16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/3e3b53b4e26a4e06743911e4636918be.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/3f6339939025b3762dd1119a3708db28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/40ef4247c17bffd878cc224e9cb01dbc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/410af3b948fe79e953fa86a1ff46520f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/41b0bb225ddb9ea30bbcee6c83ab3862.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/4392de4c993f9be49424f02509fddf1d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/44eab46398d791c8c7deb494c93d38e1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/45b283b0d90139c909d6a0fff49a6649.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/48227fa9a78ad6f0d315b8c50b92f8de.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/4988d7990d32014a83ff9032fc69e67e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/4a14dd4895d99ad58d290d4645e36b5f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/4cf7f6d618f25ea5205bbca8fd8168c0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/4d99d3cdfd4c07dfbafc8b7eda30622c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/4fa312b22c304b950409b6db7ee92c8d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/50e604497c16cf507b25122b28e8342a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/52f55b68c0bbce4d128ad96e4e6f4665.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/5470415c8aabef8a843b4cea62b5fc74.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/5659150dde535e80f63ea18475ecf210.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/57097e5f205eca88c3890e49439e69d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/57ea4ca7301276a287ca8654f07723b3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/5825302643e0cf107ee73ba05f58d17d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/597ad35a15902e025efc9cad03d08f66.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/5b1e88dc099a5be654d758e71471c2f8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/5b81ab36aceb0c8bfa5a97ae242f78c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/5e0d6a94f5862dcfc1b4286f565e838b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/5fe774f4ef117bd3fdef473e986281fa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/6192a3728723d88dd77fe24fa26f339a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/637c2410d88a722e4d291d00e2cb13c7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/666aeee7f0aae4849242d0c7823e6043.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/674d2057b552fcc9b15f930160d9cc01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/68844ca3ee0a36c19ded0079c4db4918.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/693ca535c57ba7497c17c17363dff886.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/6a4a5658153f88819936cf64c98711ac.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/6ab82d19a87db6514609bd68fb59e9ff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/6be98c9bbfb9e73606c11b90e4095c17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/735b8d88c6a23b79792010a786234927.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/75d0e39534e7a42aa5fd0f97404644f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/7a60b14ee51e556fba7f4ea0430c79c0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/7b3856e7f757d6b7dda10851e12e20a4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/7c1961553db49687925c93bb1d305410.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/7d74ee8cf740ce895be50326f7c24158.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/7df43626e1ebcc08855670714e7f5dc4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/80a5761aa59bae4bf42cfd5174a2bbe5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/812667806b69fd01566b15abf2946dd8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/85ce3520335ace5fa3a5348bbf9e10a3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/8621c8e9ced837d9ee828a2985f55be4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/862c6b277e1758632193a0a1ef94537f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/86d7066ac1010706630b63d9b85bdd73.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/88f3d5811cad0361ed5c2b72ca509d33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/8986e363c6eeb0e01614542f9db7906f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/8a31ee5b923df9838ef054096975b3a1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/954e9d457ad7c3ca3b0e5a5e8ced84cc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/96d84200280efcff99650d77178e161d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/96de3eba3a74fe6ce72464616b2992ad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/9ae1e7960c12b78d8fd3d129c875a64c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/9bcb5e1808ac7058eaa037c77c5e2c49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/9c4a966c6a6a188af241918589046e14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/9fe19c968cd5a3c1f9d028ed3222b71f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/a51e595383f659360cb050b194723d10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/a5ed7f9bce0b0e1801fc4afb4df357f7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/aeeb0643714a5dbd347e66287b76b421.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/b1177b46114141b8f484568b1c3f8257.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/b12691c1fa4aba871ba7f8521b1998c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/b17dec6b9e91e5fe645576841fbb366b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/b5c27d199377a03bdaa826cc52af2bb1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/b788af6aec7eb8367db5dc8952ee9e30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/bb076c4a0cad4f3cf90c50a259889e37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/bb4e636b13945be807ea4f48d906f0d2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/bc7af8378377c057ee23b13b0a7df47a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/be8569bc915804ab9c9c6913c9452866.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/bfbc2dd3a72ab45107b3f9538a3db00a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/c332f5be48f3aab1a4019eeb1b057a41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/c58ca0c1a61ff24f79a7e6d06b68d505.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/c5aea91435f519e07adbd1141d6c10ff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/c7a0002fc827998a90fa57ad065b83a0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/ca90e3f7fd686781f53f124ae2c89c6c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/cc459f0ba1aec1b23113d85e003f7b17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/cfc097dde9b0d29edfc9a1762f104eb4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/cfd46e3858705b4690a4b5d2d12009e7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/d1ce9dd6341176e350f4b1fe896d1109.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/d513c5dc0d1fd658c222a8485ec8c6ff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/d53233a77b15a8de326b43d15afce56b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/d5ad5b05cbe9339436e73731d1e1ff56.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/d734c8d8f71bd22251b9834dada0ad48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/df03cd7687164a977abacca4369e0a0d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/e0209653623c5c2e1017439b894ca85d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/e02abd46798a10ce5987f03dadc1199f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/e448df8f0bc2f62a66be4ef522c16ee0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/e7107eaa1632b4639cbe9fc442399e60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/e86697e1b9bb7192758ed5d0e2d12d60.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/ec9e3fe94d9cd0ea48c39101e3cc7bfa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/ee5bf285eb695b870dfeeb21483223bf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/ef71ad70cb3fc5e256d8dd52cce5d07f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/ef9b67f53a9e22a466a8da2627f2e2a3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/f2307c2ad1f1e82e0016038b96443cc9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/f46abb1eed899a27f740dfde8fbefa44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/f4a52a960a51368ccdadbbda5e8ccb8b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/f9fc02f8b65933a85b9c225307126062.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/fc8f3aa6ab547b21cfd32af02f189ec7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/fed718adc8ad80bddbefaf38c1299ba7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/ff855e7ccb069a5ba50a443bcc014683.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/users/no_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/banner/editbanner.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/banner/editbanner.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/banner/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/banner/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layouts/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/layouts/dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/newarrivals/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/newarrivals/add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/newarrivals/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/newarrivals/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/site/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/site/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/subbanner/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/subbanner/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/trendding/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/trendding/index.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1075435826">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/controllers/BannerController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/public_html/js/version/package.json" />
+      <path value="$PROJECT_DIR$/public_html/package.json" />
+      <path value="$PROJECT_DIR$/vendor/bower/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/vendor/bower/jquery.inputmask/package.json" />
+      <path value="$PROJECT_DIR$/vendor/bower/typeahead.js/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="festone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="festone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="festone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="festone" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/uniqueApp" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75b1d27a-5006-4a82-af1b-2307061e4bf8" name="Default Changelist" comment="" />
+      <created>1534145020276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534145020276</updated>
+      <workItem from="1534145021808" duration="124000" />
+      <workItem from="1534484581813" duration="99000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="223000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="20" width="1346" height="688" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2534992" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/controllers/BannerController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="66" column="55" selection-start-line="66" selection-start-column="55" selection-end-line="66" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

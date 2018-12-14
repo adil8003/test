@@ -1,0 +1,23 @@
+/*@import url(https://fonts.googleapis.com/css?family=Buda:300);
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #D9DADB;
+  font-family: 'Buda', sans-serif;
+}
+
+.signin {
+  padding: 15px;
+  margin: 40px auto;
+  background-color: #fff;
+  max-width: 400px
+}
+.signin  .card-text i, .signin  h3{
+  color: #1a2732;
+}
+.signin .btn-primary {
+    background-color: #1a2732;
+    border-color: #1a2732;
+    color: #fff;
+	font-family: 'Buda', sans-serif;
+}*/
